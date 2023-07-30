@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.img {
+  width: 100px;
+}
+.item-container {
+  padding: 10px;
+  margin: 5px;
+  width: 250px;
+}
+h1 {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #e73959;
+}
+.img-icon {
+  width: 17px;
+}

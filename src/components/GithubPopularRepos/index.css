@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.h1 {
+  font-family: 'Lobster';
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  list-style: none;
+  display: flex;
+  padding: 10px;
+}
+.fetched-content {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+}
